@@ -74,6 +74,17 @@
 
 ---
 
+---
+
+### 📫 Let's Connect
+
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kallolm101/)
+- 📧 Email: kallolmondal88@gmail.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+---
 ## 📅 My Development Journey
 
 ```mermaid
@@ -85,14 +96,4 @@ timeline
     2024 Q2 : Added Redis, Kafka, and Observability tools
     2025 Q1 : Upcoming: JTrace debugger tool
 
----
-
-### 📫 Let's Connect
-
-- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kallolm101/)
-- 📧 Email: kallolmondal88@gmail.com
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
