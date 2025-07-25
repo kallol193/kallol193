@@ -62,29 +62,74 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+### 🚀 Featured Projects
+<h2 align="center"></h2>
 
-## 🚀 Featured Projects
+<table>
+  <tr>
+    <td>
 
-| Project      | Description                                                                 | Tech Stack                                                                 |
-|--------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| [PixelPass](https://github.com/kallol193/PixelPass) | 🎫 Event Booking System | Spring Boot, Kafka, MongoDB, Redis, Docker |
-| [CodeReview](https://github.com/kallol193/codeReview) | 📦 Slot Allocation Microservice | Spring Boot, REST, Docker |
-| [DiaryApp](https://github.com/kallol193/DiaryApp) | 📔 Personal Journal App | Spring Boot, MongoDB, JWT, Redis |
-| [JTrace (upcoming)]() | 🔍 Java Debugger Tool | Java, AWT/Swing, MongoDB |
+<!-- Project Table -->
+  
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kallol193/PixelPass">PixelPass</a></td>
+    <td>🎫 Event Booking System</td>
+    <td>Spring Boot, Kafka, MongoDB, Redis, Docker</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kallol193/codeReview">CodeReview</a></td>
+    <td>📦 Slot Allocation Microservice</td>
+    <td>Spring Boot, REST, Docker</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kallol193/DiaryApp">DiaryApp</a></td>
+    <td>📔 Personal Journal App</td>
+    <td>Spring Boot, MongoDB, JWT, Redis</td>
+  </tr>
+  <tr>
+    <td><a href="#">JTrace (upcoming)</a></td>
+    <td>🔍 Java Debugger Tool</td>
+    <td>Java, AWT/Swing, MongoDB</td>
+  </tr>
+</table>
+
+  </td>
+  <td align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlyZzc5emx1d3doOGU3OWM1ZWc0ejZ3ZjM0NWRqMWx0a2t3MXNsdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/38niYp6E83GwM/giphy.gif" width="200px" alt="Ghost GIF" />
+  </td>
+</tr>
+</table>
 
 ---
 
 ---
+### Lets connect 🔗
+<h2 align="center"></h2>
 
-### 📫 Let's Connect
+<table>
+  <tr>
+    <td>
 
-- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kallolm101/)
-- 📧 Email: kallolmondal88@gmail.com
+<!-- Contact Info -->
 
----
+<ul>
+  <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/kallolm101/">LinkedIn</a></li>
+  <li>📧 Email: kallolmondal88@gmail.com</li>
+</ul>
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
----
+  </td>
+  <td align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BqdzZjdmh1aGJnbW1ncWIybHZtNXluZGc3NXZhNDVpbTVkMjdpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fB1V3AmQ12tZfk2POa/giphy.gif" width="220px" alt="Let's Connect GIF" />
+  </td>
+</tr>
+</table>
+
 ## 📅 My Development Journey
 
 ```mermaid
