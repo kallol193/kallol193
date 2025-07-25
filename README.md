@@ -57,26 +57,9 @@ Hi ,I'm a backend Java developer passionate about building scalable, resilient, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-<h2>🧠 Skill Radar</h2>
-
+## 🧠 Skill Radar
 <p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'radar',
-    data:{
-      labels:['Attention to Detail','Efficient Code Writing','Problem Solving','Debugging','System Design','Clean Architecture'],
-      datasets:[{
-        label:'My Skills',
-        data:[64,32,78,85,60,72],
-        backgroundColor:'rgba(255,99,132,0.2)',
-        borderColor:'rgba(255,99,132,1)',
-        pointBackgroundColor:'rgba(255,99,132,1)'
-      }]
-    },
-    options:{
-      scale:{ticks:{beginAtZero:true,max:100}},
-      plugins:{legend:{display:false}}
-    }
-  }" alt="Skill Radar Chart" width="500"/>
+  <img src="https://github.com/ashutosh00710/ashutosh00710/blob/master/assets/developer.gif" width="300" />
 </p>
 
 ---
