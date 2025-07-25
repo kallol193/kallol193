@@ -69,7 +69,7 @@ Hi ,I'm a backend Java developer passionate about building scalable, resilient, 
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kallolm101/)
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kallolm101/)
 - 📧 Email: kallolmondal88@gmail.com
 
 ---
