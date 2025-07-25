@@ -29,8 +29,8 @@
 #### 🚀 Frameworks & Libraries  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Resilience4j](https://img.shields.io/badge/Resilience4j-0A0A0A?style=for-the-badge&logoColor=white)
 ![Netflix Eureka](https://img.shields.io/badge/Eureka-FFCA28?style=for-the-badge&logo=netflix&logoColor=black)
+![Resilience4j](https://img.shields.io/badge/Resilience4j-0A0A0A?style=for-the-badge&logoColor=white)
 
 #### 💾 Databases & Caching  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -40,16 +40,21 @@
 #### 📊 Observability & Monitoring  
 ![Micrometer](https://img.shields.io/badge/Micrometer-008080?style=for-the-badge&logo=micrometer&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zipkin](https://img.shields.io/badge/Zipkin-000000?style=for-the-badge&logo=apache&logoColor=white)
+![Sleuth](https://img.shields.io/badge/Spring%20Cloud%20Sleuth-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 #### ⚙️ DevOps & Tools  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 #### 🧠 IDEs & Version Control  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Spring Tool Suite](https://img.shields.io/badge/Spring%20STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
