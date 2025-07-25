@@ -57,12 +57,6 @@ Hi ,I'm a backend Java developer passionate about building scalable, resilient, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-## 🧠 Skill Radar
-<p align="center">
-  <img src="https://github.com/ashutosh00710/ashutosh00710/blob/master/assets/developer.gif" width="300" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
