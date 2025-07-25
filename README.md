@@ -1,7 +1,7 @@
 <h1 align="center">Hey there I'm Kallol </h1>
 
 <p align="center">
-  💻 Java Backend Developer | Spring Boot Craftsman | DevOps Learner | OSS Enthusiast
+  💻 Java Backend Developer | Spring Boot Craftsman | OSS Enthusiast
 </p>
 
 ---
