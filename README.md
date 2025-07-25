@@ -8,7 +8,7 @@ Hi ,I'm a backend Java developer passionate about building scalable, resilient, 
 
 - 🔭 I specialize in Spring Boot microservices, MongoDB, Kafka, Docker, and Redis.  
 - 🌱 Currently exploring observability tools like Grafana, Sleuth, and Zipkin.  
-- 🚀 Focused on writing clean, maintainable code and continuously learning.
+- 🚀 Focused on writing clean, maintainable code and continuous learning.
 
     </td>
     <td>
