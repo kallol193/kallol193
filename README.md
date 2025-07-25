@@ -1,25 +1,24 @@
-<h1 align="center">Hey there I'm Kallol </h1>
+<h1 align="center">Hey Kallol here 👋</h1>
 
-<p align="center">
-  💻 Java Backend Developer | Spring Boot Craftsman | OSS Enthusiast
-</p>
+<table>
+  <tr>
+    <td>
 
----
+Hi ,I'm a backend Java developer passionate about building scalable, resilient, and observable systems.
 
-### 🌱 About Me
+- 🔭 I specialize in Spring Boot microservices, MongoDB, Kafka, Docker, and Redis.  
+- 🌱 Currently exploring observability tools like Grafana, Sleuth, and Zipkin.  
+- 🚀 Focused on writing clean, maintainable code and continuously learning.
 
-- 🔭 Currently building:  
-  `Event Booking System`, `Real-Time Chat App`, `Distributed Notification System`  
-- 🌱 Learning & exploring:  
-  Spring Cloud, Service Discovery, Observability, Microservices Resilience  
-- 💬 Ask me about:  
-  Java, Spring Boot, MongoDB, Redis, Kafka, Docker, MySQL, REST APIs  
-- 📫 Reach me at:  
-  [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)  
-- ⚡ Fun Fact:  
-  I automate everything except making coffee ☕ — that still deserves a ritual!
+    </td>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFxZW5xdnVpOWY2MzVieGgyc3E5ZXN0NWJ5cHptMTV3ZnFuM2oybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif" width="300px" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
+
 ### 🛠️ Tech Stack
 
 #### 💻 Languages & Core  
@@ -62,32 +61,18 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical" width="47%" />
 </p>
 
 ---
 
-### 🚀 Highlighted Projects
+### 📫 Let's Connect
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Distributed Notification System** | Kafka-powered event delivery with Redis caching and resilience handling | `Spring Boot`, `Kafka`, `Redis`, `Micrometer`, `Resilience4j` |
-| **Event Booking System** | Scalable event scheduler with service discovery and observability | `Spring Cloud`, `Eureka`, `MongoDB`, `Grafana`, `Micrometer` |
-| **Real-Time Chat App** | WebSocket + Redis pub/sub for blazing fast chat | `Spring Boot`, `Redis`, `Kafka`, `WebSockets`, `Docker` |
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kallolm101/)
+- 📧 Email: kallolmondal88@gmail.com
 
 ---
 
-### 🧑‍💻 Featured Contributions
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-- 📦 Open Source Libraries on MongoDB and Redis integration
-- 📘 Blog posts coming soon on Spring Cloud + Observability
-- 💬 Actively helping devs on GitHub Issues and Stack Overflow
-
----
-
-### 📢 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kallolm101/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-t
