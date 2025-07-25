@@ -119,7 +119,7 @@
 <!-- Contact Info -->
 
 <ul>
-  <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/kallolm101/">LinkedIn</a></li>
+  <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/kallolm101/                                                     ">LinkedIn</a></li>
   <li>📧 Email: kallolmondal88@gmail.com</li>
 </ul>
 
