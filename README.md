@@ -1,14 +1,19 @@
-<h1 align="center">Hey , Kallol here  👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi%2C+Kallol+here+!!;" />
+</h1>
 
 <table>
   <tr>
     <td>
+    Hi, I'm a backend Java developer passionate about building scalable, resilient, and observable systems.
 
-Hi ,I'm a backend Java developer passionate about building scalable, resilient, and observable systems.
-
-- 🔭 I specialize in Spring Boot microservices, MongoDB, Kafka, Docker, and Redis.  
-- 🌱 Currently exploring observability tools like Grafana, Sleuth, and Zipkin.  
+- 🔭 I specialize in Spring Boot microservices, MongoDB, Kafka, Docker, and Redis.
+- 🌱 Currently exploring observability tools like Grafana, Sleuth, and Zipkin.
 - 🚀 Focused on writing clean, maintainable code and continuous learning.
+- 💬 Love diving into microservices architecture and debugging distributed systems.
+- 🧠 On a mission to learn system design and contribute to open source.
+- ✍️ I often build side projects to sharpen concepts and explore tech like MapStruct, Redis Streams, and RabbitMQ.
+
 
     </td>
     <td>
@@ -55,6 +60,30 @@ Hi ,I'm a backend Java developer passionate about building scalable, resilient, 
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project      | Description                                                                 | Tech Stack                                                                 |
+|--------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| [PixelPass](https://github.com/kallol193/PixelPass) | 🎫 Event Booking System | Spring Boot, Kafka, MongoDB, Redis, Docker |
+| [CodeReview](https://github.com/kallol193/codeReview) | 📦 Slot Allocation Microservice | Spring Boot, REST, Docker |
+| [DiaryApp](https://github.com/kallol193/DiaryApp) | 📔 Personal Journal App | Spring Boot, MongoDB, JWT, Redis |
+| [JTrace (upcoming)]() | 🔍 Java Debugger Tool | Java, AWT/Swing, MongoDB |
+
+---
+
+## 📅 My Development Journey
+
+```mermaid
+timeline
+    title My Java Backend Roadmap
+    2023 Q1 : Learned Spring Boot, Docker & MongoDB
+    2023 Q3 : Deployed PixelPass
+    2024 Q1 : Started building CodeReview slot engine
+    2024 Q2 : Added Redis, Kafka, and Observability tools
+    2025 Q1 : Upcoming: JTrace debugger tool
 
 ---
 
