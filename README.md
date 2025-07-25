@@ -1,25 +1,27 @@
-👋 Welcome to Kallol's GitHub Portfolio
-Hi, I'm Kallol, a skilled software developer specializing in designing and implementing microservice-based ticket booking systems. With expertise in Spring Boot, Java, and distributed systems, I create scalable, user-centric platforms like PixelPass, inspired by BookMyShow. Explore my projects to see how I deliver innovative solutions for event management and ticketing! 🚀
+👋 Welcome 
+
+            Hi, I'm Kallol, a skilled software developer specializing in designing and implementing microservice-based ticket booking systems. With expertise in Spring Boot, Java, and distributed systems, I create scalable, user-centric platforms like PixelPass, inspired by BookMyShow. Explore my projects to see how I deliver innovative solutions for event management and ticketing! 🚀
+            
 
 🌟 About Me
 
-🎟️ Expertise: Architecting microservice-based solutions for Java Software Developement Environment.
-💻 Tech Stack: Java, Spring Boot, Spring Cloud, REST APIs, Redis, MySQL, Kafka, Docker, Git.
-🌍 Location: Bengaluru, India
-📫 Connect: linkedin.com/in/kallolm101 | kallolmondal88@gmail.com 
-🏆 Mission: To build efficient, scalable systems that enhance the event ticketing experience for organizers and users.
+            🎟️ Expertise: Architecting microservice-based solutions for Java Software Developement Environment.
+            💻 Tech Stack: Java, Spring Boot, Spring Cloud, REST APIs, Redis, MySQL, Kafka, Docker, Git.
+            🌍 Location: Bengaluru, India
+            📫 Connect: linkedin.com/in/kallolm101 | kallolmondal88@gmail.com 
+            🏆 Mission: To build efficient, scalable systems that enhance the event ticketing experience for organizers and users.
 
 
 🚀 Featured Project: PixelPass
-PixelPass
-A microservice-based ticket booking system inspired by BookMyShow, built with Spring Boot to provide a scalable, efficient platform for event ticketing and management.
+
+            A microservice-based ticket booking system inspired by BookMyShow, built with Spring Boot to provide a scalable, efficient platform for event ticketing and management.
 
 Key Features:
-Microservice architecture for high scalability and maintainability.
-Event creation and ticket booking with real-time availability checks.
-Secure payment integration and ticket generation.
-User authentication and personalized booking history.
-Distributed event-driven system using Kafka for real-time updates.
+            Microservice architecture for high scalability and maintainability.
+            Event creation and ticket booking with real-time availability checks.
+            Secure payment integration and ticket generation.
+            User authentication and personalized booking history.
+            Distributed event-driven system using Kafka for real-time updates.
 
 
 Tech Stack: Java, Spring Boot, Spring Cloud, MySQL, Kafka, Docker, REST APIs.
