@@ -1,59 +1,12 @@
-👋 Welcome 
+<h1 align="center">Hi 👋, I'm Kallol</h1>
+<h3 align="center">am a Java Developer with expertise in building scalable, microservice-based applications using Spring Boot, Java, and modern frameworks. My work focuses on creating robust, efficient solutions for diverse domains, including event management, configuration management, and financial applications. I leverage Spring Cloud, Kafka, and Docker to design systems that prioritize scalability, security, and user experience.</h3>
 
-            Hi, I'm Kallol, a skilled software developer specializing in designing and implementing microservice-based ticket booking systems. With expertise in Spring Boot, Java, and distributed systems, I create scalable, user-centric platforms like PixelPass, inspired by BookMyShow. Explore my projects to see how I deliver innovative solutions for event management and ticketing! 🚀
-            
+- 📫 How to reach me **kallolmondal88@gmail.com**
 
-🌟 About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-            🎟️ Expertise: Architecting microservice-based solutions for Java Software Developement Environment.
-            💻 Tech Stack: Java, Spring Boot, Spring Cloud, REST APIs, Redis, MySQL, Kafka, Docker, Git.
-            🌍 Location: Bengaluru, India
-            📫 Connect: linkedin.com/in/kallolm101 | kallolmondal88@gmail.com 
-            🏆 Mission: To build efficient, scalable systems that enhance the event ticketing experience for organizers and users.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-
-🚀 Featured Project: PixelPass
-
-            A microservice-based ticket booking system inspired by BookMyShow, built with Spring Boot to provide a scalable, efficient platform for event ticketing and management.
-
-Key Features:
-            Microservice architecture for high scalability and maintainability.
-            Event creation and ticket booking with real-time availability checks.
-            Secure payment integration and ticket generation.
-            User authentication and personalized booking history.
-            Distributed event-driven system using Kafka for real-time updates.
-
-
-Tech Stack: Java, Spring Boot, Spring Cloud, MySQL, Kafka, Docker, REST APIs.
-Impact: Successfully processed 1,000+ concurrent bookings with 99.9% uptime in stress tests.
-Live Demo: [Link to live demo, if available]
-Architecture Diagram:
-
-🧠 Skills
-
-Programming Languages: Java,
-Frameworks & Tools: Spring Boot, Spring Cloud, Kafka, Docker, Maven, Git, REST APIs
-Microservices Expertise:
-Designing scalable ticket booking systems
-Implementing event-driven architectures with Kafka
-Building secure, RESTful APIs for user and payment services
-
-
-Soft Skills: Problem-solving, collaboration, attention to detail, Simplifying complicated Logic
-
-
-🏅 Achievements & Certifications
-
-Certified Spring Professional – [Certification Provider, e.g., VMware] (2024)
-Hackathon Finalist – [Event Name, e.g., CodeFest 2023] for PixelPass microservices
-Open-Source Contributor – Contributed to [Project/Repo Name] on GitHub
-
-🤝 Let’s Collaborate!
-Interested in building cutting-edge ticket booking solutions or discussing microservices? Let’s connect!  
-
-📧 Email: kallolmondal88@gmail.com  
-🌐 LinkedIn: linkedin.com/in/kallolm101  
-🌍 Website: _TBA_ 
-
-
-⭐️ Star my repositories if you find them inspiring! Let’s build the next big thing in event ticketing together
