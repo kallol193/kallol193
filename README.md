@@ -3,15 +3,16 @@ Hi, I'm Kallol, a skilled software developer specializing in designing and imple
 
 🌟 About Me
 
-🎟️ Expertise: Architecting microservice-based solutions for event ticketing and management.
-💻 Tech Stack: Java, Spring Boot, Spring Cloud, REST APIs, MySQL, Kafka, Docker, Git.
-🌍 Location: [Your Location, e.g., Bangalore, India]
-📫 Connect: LinkedIn Profile | Email | Portfolio Website
+🎟️ Expertise: Architecting microservice-based solutions for Java Software Developement Environment.
+💻 Tech Stack: Java, Spring Boot, Spring Cloud, REST APIs, Redis, MySQL, Kafka, Docker, Git.
+🌍 Location: Bengaluru, India
+📫 Connect: linkedin.com/in/kallolm101 | kallolmondal88@gmail.com 
 🏆 Mission: To build efficient, scalable systems that enhance the event ticketing experience for organizers and users.
 
 
 🚀 Featured Project: PixelPass
-PixelPassA microservice-based ticket booking system inspired by BookMyShow, built with Spring Boot to provide a scalable, efficient platform for event ticketing and management.
+PixelPass
+A microservice-based ticket booking system inspired by BookMyShow, built with Spring Boot to provide a scalable, efficient platform for event ticketing and management.
 
 Key Features:
 Microservice architecture for high scalability and maintainability.
@@ -25,33 +26,10 @@ Tech Stack: Java, Spring Boot, Spring Cloud, MySQL, Kafka, Docker, REST APIs.
 Impact: Successfully processed 1,000+ concurrent bookings with 99.9% uptime in stress tests.
 Live Demo: [Link to live demo, if available]
 Architecture Diagram:
-Screenshots:
-
-
-🛠️ Other Projects
-
-Kharchi.io2A Java-based project for [brief description, e.g., expense tracking with microservices].  
-
-Technologies: Java, Spring Boot, [other technologies].  
-Key Achievement: [e.g., Optimized API response time by 20%].
-
-
-spring-app-configCentralized configuration management for Spring Boot microservices.  
-
-Purpose: Simplifies configuration for distributed systems.  
-Technologies: Spring Boot, Spring Cloud Config, YAML.
-
-
-configsA collection of service configurations for microservices and applications.  
-
-Use Case: Enables quick setup for development and production environments.
-
-
-
 
 🧠 Skills
 
-Programming Languages: Java, JavaScript
+Programming Languages: Java,
 Frameworks & Tools: Spring Boot, Spring Cloud, Kafka, Docker, Maven, Git, REST APIs
 Microservices Expertise:
 Designing scalable ticket booking systems
@@ -59,7 +37,7 @@ Implementing event-driven architectures with Kafka
 Building secure, RESTful APIs for user and payment services
 
 
-Soft Skills: Problem-solving, collaboration, attention to detail
+Soft Skills: Problem-solving, collaboration, attention to detail, Simplifying complicated Logic
 
 
 🏅 Achievements & Certifications
@@ -68,20 +46,12 @@ Certified Spring Professional – [Certification Provider, e.g., VMware] (2024)
 Hackathon Finalist – [Event Name, e.g., CodeFest 2023] for PixelPass microservices
 Open-Source Contributor – Contributed to [Project/Repo Name] on GitHub
 
-
-📝 Blog & Insights
-I share my expertise on microservices and ticket booking systems on my blog:  
-
-Building PixelPass: A Microservice-Based Ticket Booking System  
-Scaling Event Ticketing with Spring Boot and Kafka
-
-
 🤝 Let’s Collaborate!
 Interested in building cutting-edge ticket booking solutions or discussing microservices? Let’s connect!  
 
-📧 Email: your.email@example.com  
-🌐 LinkedIn: Your LinkedIn Profile  
-🌍 Website: Your Portfolio Website
+📧 Email: kallolmondal88@gmail.com  
+🌐 LinkedIn: linkedin.com/in/kallolm101  
+🌍 Website: _TBA_ 
 
 
 ⭐️ Star my repositories if you find them inspiring! Let’s build the next big thing in event ticketing together
