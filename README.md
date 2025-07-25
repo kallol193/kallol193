@@ -20,38 +20,40 @@
   I automate everything except making coffee ☕ — that still deserves a ritual!
 
 ---
-
 ### 🛠️ Tech Stack
 
-#### 💻 Languages & Core
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+#### 💻 Languages & Core  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🚀 Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![Spring Cloud](https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![Resilience4j](https://img.shields.io/badge/Resilience4j-0A0A0A?style=for-the-badge&logoColor=white)  
+#### 🚀 Frameworks & Libraries  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Resilience4j](https://img.shields.io/badge/Resilience4j-0A0A0A?style=for-the-badge&logoColor=white)
 ![Netflix Eureka](https://img.shields.io/badge/Eureka-FFCA28?style=for-the-badge&logo=netflix&logoColor=black)
 
-#### 💾 Databases & Caching
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+#### 💾 Databases & Caching  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
 
-#### 📊 Observability & Monitoring
-![Micrometer](https://img.shields.io/badge/Micrometer-008080?style=for-the-badge&logo=micrometer&logoColor=white)  
+#### 📊 Observability & Monitoring  
+![Micrometer](https://img.shields.io/badge/Micrometer-008080?style=for-the-badge&logo=micrometer&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-#### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)  
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+#### ⚙️ DevOps & Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-#### 🧠 IDEs & CI Tools
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
+#### 🧠 IDEs & Version Control  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
 
 ---
 
