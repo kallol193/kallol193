@@ -57,12 +57,26 @@ Hi ,I'm a backend Java developer passionate about building scalable, resilient, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📈 GitHub Stats
+<h2>🧠 Skill Radar</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical" width="47%" />
+  <img src="https://quickchart.io/chart?c={
+    type:'radar',
+    data:{
+      labels:['Attention to Detail','Efficient Code Writing','Problem Solving','Debugging','System Design','Clean Architecture'],
+      datasets:[{
+        label:'My Skills',
+        data:[64,32,78,85,60,72],
+        backgroundColor:'rgba(255,99,132,0.2)',
+        borderColor:'rgba(255,99,132,1)',
+        pointBackgroundColor:'rgba(255,99,132,1)'
+      }]
+    },
+    options:{
+      scale:{ticks:{beginAtZero:true,max:100}},
+      plugins:{legend:{display:false}}
+    }
+  }" alt="Skill Radar Chart" width="500"/>
 </p>
 
 ---
