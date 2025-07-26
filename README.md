@@ -117,14 +117,19 @@
 <!-- Contact Info -->
 
 <ul>
-  <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/kallolm101/                                                     ">LinkedIn</a></li>
+  <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/kallolm101/">LinkedIn</a></li>
   <li>📧 Email: kallolmondal88@gmail.com</li>
 </ul>
+
+ <td align="center">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm51NWVjajFscDUya3p4Z3c4Z2FvZ200bGR6OWU5eHlqZHo0aWJ4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gf5QiP1TWCO8qYKmt7/giphy.gif" width="220px" alt="QR gif" />
+  </td>
 
   </td>
   <td align="center">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BqdzZjdmh1aGJnbW1ncWIybHZtNXluZGc3NXZhNDVpbTVkMjdpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fB1V3AmQ12tZfk2POa/giphy.gif" width="220px" alt="Let's Connect GIF" />
   </td>
+
 </tr>
 </table>
 
